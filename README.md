@@ -4,9 +4,9 @@ Attendents of Hacktoberfest hack day Jaipur 2018
 ## Contribution guidelines
 1. Create a new file with your roll number as name of file(Your_Roll_no.md)
 2. In the file add the data as shown below:<br/>
-***NAME**:-<br/>
-***CONTACT**:-<br/>
-***EMAIL**:-<br/>
-***GITHUB USERNAME**:-<br/>
-***FACEBOOK USERNAME**:-<br/>
-***TWITTER USERNAME**:-<br/>
+**NAME*:-<br/>
+**CONTACT*:-<br/>
+**EMAIL*:-<br/>
+**GITHUB USERNAME*:-<br/>
+**FACEBOOK USERNAME*:-<br/>
+**TWITTER USERNAME*:-<br/>
